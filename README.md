@@ -64,4 +64,5 @@ The objective of this project is to showcase real-world data storytelling and da
 Dashboard screenshots and preview
 
 🔗 Screenshots & Project Preview:
-👉 View Dashboard Screenshot (Insert your actual image link or GitHub repo link)
+👉 View Dashboard Screenshot 
+https://github.com/AbhayPratapSingh-projects/CovidReport/blob/main/Covid%20Repot%20Visual-1.png
