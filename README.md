@@ -65,5 +65,7 @@ Dashboard screenshots and preview
 
 🔗 Screenshots & Project Preview:
 👉 View Dashboard Screenshot 
+
 Preview 1- https://github.com/AbhayPratapSingh-projects/CovidReport/blob/main/Covid%20Repot%20Visual-1.png
+
 Preview 2- https://github.com/AbhayPratapSingh-projects/CovidReport/blob/main/Covid%20Repot%20Visual-2(Drill%20through).png
