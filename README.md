@@ -61,10 +61,10 @@ Cards & KPIs – For summary metrics at a glance
 🎯 Objective
 The objective of this project is to showcase real-world data storytelling and dashboard design skills in Power BI by turning vast COVID-19 data into clear, informative, and interactive visuals. This dashboard aims to support awareness, research, and policy analysis related to the pandemic.
 
-Dashboard screenshots and preview
+Dashboard screenshots and previews
 
 🔗 Screenshots & Project Preview:
-👉 View Dashboard Screenshot 
+View Dashboard Screenshot 👇
 
 Preview 1- https://github.com/AbhayPratapSingh-projects/CovidReport/blob/main/Covid%20Repot%20Visual-1.png
 
